@@ -1,0 +1,3 @@
+* Size does not get incremented when remove front is ran.
+* Size does not get incremented when remove back is ran.
+* isEmpty always returns true.

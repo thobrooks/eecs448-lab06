@@ -17,4 +17,4 @@ test.o: test.cpp test.h
 
 #DON'T delete LinkedList.o!
 clean:
-	rm main.o *.*~ prog
+	rm main.o test.o *.*~ prog
